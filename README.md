@@ -1,1 +1,3 @@
-# Integra-o_DevOps
+# Integração_DevOps
+
+**Repositório criado para atividade acadêmica.**
